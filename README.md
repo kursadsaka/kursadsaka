@@ -3,5 +3,7 @@
 [GitHub Gist](https://gist.github.com/kursadsaka)
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kursadsaka&theme=dark)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=kursadsaka&theme=dark">
+  </a>
 </p>
