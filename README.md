@@ -4,6 +4,6 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-kpxv8wytp-kursadsakas-projects.vercel.app?user=kursadsaka&theme=dark" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-ashy-beta.vercel.app/?user=kursadsaka&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
